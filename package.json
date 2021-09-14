@@ -1,0 +1,17 @@
+{
+  "name": "rock-paper-scissors-master",
+  "version": "1.0.0",
+  "description": "Rock, Paper, Scissors Game",
+  "main": "index.html",
+  "repository": "https://github.com/iamwhitegod/rock-paper-scissors-game.git",
+  "author": "whitegod <kmbagwu12@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
